@@ -14,6 +14,9 @@ Access environments in minutes, dynamically scale capacity as needed, and benefi
 Deliver the broadest choice of compute, networking (up to 400 Gbps), and storage services purpose-built to optimize price performance for ML projects
 EC2 Instance Types
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5a48742d-0a66-47a1-b828-f9c88d4053a0" />
+
+
 Recommended to follow this page for very detailed and updated information.
 
 General purpose

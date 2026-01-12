@@ -531,17 +531,3 @@ aws iam enable-mfa-device --user-name john-doe \
 - **Related**: [AWS Organizations](../organizations/README.md)
 - **Advanced**: [AWS Security Best Practices](../security/README.md)
 
----
-
-**Last Updated**: January 2026  
-**Part of**: AWS Learning Series
-
----
-
-## 🤝 Contributing
-
-Found an error or want to improve this guide? Contributions welcome!
-
-## 📝 License
-
-This documentation is available under the MIT License.

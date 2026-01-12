@@ -621,7 +621,7 @@ Characteristics:
 
 Use Cases:
 • Temporary data processing
-• Caching layers
+• Caching layers   
 • Scratch data
 ```
 

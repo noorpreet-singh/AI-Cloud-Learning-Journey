@@ -6,10 +6,18 @@
    - Inbound: HTTP (80) from 0.0.0.0/0
 
 ## SSH Connection:
+# For Linux or Mac
 chmod 400 week3-key.pem
+
+# For Windows(powershell)
+icacls "week3-key.pem" /reset
+icacls "week3-key.pem" /grant:r "$($env:username):(R)"
+icacls "week3-key.pem" /inheritance:r
+
 ssh -i week3-key.pem ec2-user@<PUBLIC_IP>
 
 ## Web Server Setup:
+sudo apt-get update(Install Latest updates)
 sudo yum update -y
 sudo yum install httpd -y
 sudo systemctl start httpd

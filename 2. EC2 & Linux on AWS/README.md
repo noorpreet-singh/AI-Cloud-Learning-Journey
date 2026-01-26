@@ -159,13 +159,17 @@ EC2
 - Prefer Graviton (g) for cost efficiency
 
 - Right-size instances regularly
+  
 Security
+
 - Never expose SSH/RDP to 0.0.0.0/0
 
 - Use security group references for tiered apps
 
 - Apply least-privilege rules
+  
 AMIs
+
 - Use versioned golden images
 
 - Patch and rebuild monthly

@@ -18,8 +18,7 @@ No server-side processing is required.
 
 #### Step 2: Upload Website Files 
 
-
-<img width="1575" height="396" alt="Screenshot 2026-01-26 131730" src="https://github.com/user-attachments/assets/e8d8f707-5a64-4187-84df-f8e19b0dcba7" />
+<img width="1887" height="523" alt="Screenshot 2026-01-26 131020" src="https://github.com/user-attachments/assets/ec9822a6-fb4d-42e3-bfdd-4f3b0287d24a" />
 
 
 ---
@@ -30,6 +29,9 @@ No server-side processing is required.
 - Set:
   - Index document: `index.html`
   - Error document: `error.html`
+
+ <img width="1575" height="396" alt="Screenshot 2026-01-26 131730" src="https://github.com/user-attachments/assets/e8d8f707-5a64-4187-84df-f8e19b0dcba7" />
+
 
 ---
 

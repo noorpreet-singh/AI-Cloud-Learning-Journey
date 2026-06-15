@@ -1,4 +1,4 @@
-## 6️⃣ Hands-on: Hosting a Static Website on S3
+## Hands-on: Hosting a Static Website on S3
 
 ### What is a Static Website?
 A static website contains files like:

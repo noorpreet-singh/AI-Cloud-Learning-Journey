@@ -1,2 +1,2 @@
-# AI-Cloud-Learning-Journey
-A public record of my journey to master the foundational concepts of and services of Amazon Web Services (AWS) with learn and integration the deployment of AI models. 
+# AI-Cloud-DevOps-Journey
+A public record of my evolving journey—starting with foundational AWS services and AI model deployment, now expanding into DevOps practices to bridge development, operations, and scalable cloud infrastructure.
